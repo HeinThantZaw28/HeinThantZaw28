@@ -1,7 +1,12 @@
-[![Masterhead](https://user-images.githubusercontent.com/115386517/225841791-e6eb2fcf-6de1-45ec-a5e8-0c321f0af245.gif)]
-<h1 align="center">Hi 👋, I'm Hein Thant Zaw</h1>
-<h3 align="center">A passionate software developer from Myanmar</h3>
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWExOXA0bTBmdHI0dGplMGJtNnFudjB6b29seHR5Y3A1a2U0am90ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u2pmTWUi0MXjyrMaVj/giphy.webp" alt="me_coding" width="400" height="500">
+![Masterhead](https://user-images.githubusercontent.com/115386517/225841791-e6eb2fcf-6de1-45ec-a5e8-0c321f0af245.gif)
+<div class="display:'flex', justifyContent:'space-between', alignItems:'center'">
+  <div class="display:'flex', flexDirection:'column'">
+    <h1 align="center">Hi 👋, I'm Hein Thant Zaw</h1>
+    <h3 align="center">A passionate software developer from Myanmar</h3>
+  </div>
+  <img     src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWExOXA0bTBmdHI0dGplMGJtNnFudjB6b29seHR5Y3A1a2U0am90ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u2pmTWUi0MXjyrMaVj/giphy.webp" alt="me_coding" width="400" height="300">
+</div>
+
 
 - 🔭 I’m currently working at [A Bank](https://www.abank.com.mm/en_US/)
 
