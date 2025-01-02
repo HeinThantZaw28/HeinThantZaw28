@@ -8,7 +8,7 @@
 
 - 🔭 Former Front-end developer at [A Bank](https://www.abank.com.mm/en_US/)
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently seeking **Backend Development Domain Knowledge**
 
 - 👨‍💻 All of my projects are available at [https://github.com/HeinThantZaw28/](https://github.com/HeinThantZaw28/)
 
