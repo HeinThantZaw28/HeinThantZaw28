@@ -3,7 +3,7 @@
   <h1 align="center">Hi 👋, I'm Hein Thant Zaw</h1>
   <h3 align="center">An experienced software engineer from Myanmar</h3>
 
-- 🔭 I’m currently as Front-end developer working at AYA InnoLab (https://ayapay.com/)
+- 🔭 I’m currently as Front-end developer working at [AYA InnoLab](https://ayapay.com/)
 
 - 🔭 Former Front-end developer at [A Bank](https://www.abank.com.mm/)
 
