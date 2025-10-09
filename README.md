@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently as Front-end developer working at AYA InnoLab (https://ayapay.com/)
 
-- 🔭 Former Front-end developer at [A Bank](https://www.abank.com.mm/en_US/)
+- 🔭 Former Front-end developer at [A Bank](https://www.abank.com.mm/)
 
 - 🌱 I’m currently seeking **Backend Development Domain Knowledge**
 
