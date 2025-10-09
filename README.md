@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently seeking **Backend Development Domain Knowledge**
 
-- 👨‍💻 All of my projects are available at [https://github.com/HeinThantZaw28/](https://github.com/HeinThantZaw28/)
+- 👨‍💻 Some of my projects are available at [https://github.com/HeinThantZaw28/](https://github.com/HeinThantZaw28/)
 
 - 💬 Ask me about **JavaScript, NodeJs, ExpressJs, NestJs, ReactJs, NextJs and ReactNative**
 
