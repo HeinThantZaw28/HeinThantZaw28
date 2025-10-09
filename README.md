@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/HeinThantZaw28/](https://github.com/HeinThantZaw28/)
 
-- 💬 Ask me about **JavaScript, NodeJs, ReactJs, NextJs and ReactNative**
+- 💬 Ask me about **JavaScript, NodeJs, ExpressJs, NestJs, ReactJs, NextJs and ReactNative**
 
 - 📫 How to reach me **heinthantzaw52@gmail.com**
 
