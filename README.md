@@ -3,11 +3,11 @@
   <h1 align="center">Hi 👋, I'm Hein Thant Zaw</h1>
   <h3 align="center">A Software Engineer from Myanmar</h3>
 
-- 🔭 I’m currently as Front-end developer working at [AYA InnoLab](https://ayapay.com/)
+- 🔭 I’m currently as Full-stack Engineer working at [AYA InnoLab](https://ayapay.com/)
 
 - 🔭 Former Front-end developer at [A Bank](https://www.abank.com.mm/)
 
-- 🌱 I’m currently seeking **Backend Development Domain Knowledge**
+- 🌱 I’m currently seeking **Software Development Domain Knowledge**
 
 - 👨‍💻 Some of my projects are available at [https://github.com/HeinThantZaw28/](https://github.com/HeinThantZaw28/)
 
